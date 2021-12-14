@@ -1,5 +1,3 @@
-## Docker
-Learning Docker
 
 ## Docker:
 Docker is  a platform or an ecosystem around creating and running containairs. It makes really easy to install and run software without worrying about setup or dependencies.
