@@ -28,7 +28,7 @@ docker creat <Image name>
 ```
 docker start -a container_ID
 ```
-### Removed stoped containers:
+### Removestoped containers:
 ```
 docker system prune
 ```
