@@ -9,7 +9,10 @@ Is a single file with all the dependencies and configurations required to run a 
   <li>File system snapshot.</li>
   <li>Start up command (deafault command): it is excuted when a container of the image is running. </li>
   
-  <\ol>
-## Docker characteristics:
+  </ol>
+  
+  ## Docker characteristics:
+   <ul>
 <li> Name spacing:  isolating resources per process or group of processes.</li>
 <li>Control groups: limit amout o fresources used per process.</li>
+</ul>
